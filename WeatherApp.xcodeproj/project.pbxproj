@@ -80,6 +80,7 @@
 		D80412B02410D0AD00CCC74B = {
 			isa = PBXGroup;
 			children = (
+				D81AE02C2411C5410077BCCF /* README.md */,
 				D80412BB2410D0AD00CCC74B /* WeatherApp */,
 				D80412D22410D0B300CCC74B /* WeatherAppTests */,
 				D80412DD2410D0B300CCC74B /* WeatherAppUITests */,
@@ -107,7 +108,6 @@
 				D80412C72410D0B300CCC74B /* LaunchScreen.storyboard */,
 				D80412CA2410D0B300CCC74B /* Info.plist */,
 				D80412C42410D0B300CCC74B /* Preview Content */,
-				D81AE02C2411C5410077BCCF /* README.md */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
