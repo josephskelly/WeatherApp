@@ -50,6 +50,7 @@
 		D80412DE2410D0B300CCC74B /* WeatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppUITests.swift; sourceTree = "<group>"; };
 		D80412E02410D0B300CCC74B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D81AE02C2411C5410077BCCF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D81AE02E2411D45C0077BCCF /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				D81AE02C2411C5410077BCCF /* README.md */,
+				D81AE02E2411D45C0077BCCF /* .gitignore */,
 				D80412BB2410D0AD00CCC74B /* WeatherApp */,
 				D80412D22410D0B300CCC74B /* WeatherAppTests */,
 				D80412DD2410D0B300CCC74B /* WeatherAppUITests */,
