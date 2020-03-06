@@ -13,12 +13,21 @@ iOS
 on macOS:
 
 (1) Open terminal.
+
     ⌘ ␣ > Terminal.app
+    
 (2) Navigate to desired directory:
-    `cd ~/Downloads`
+
+    cd ~/Downloads
+    
 (3) Clone repository: 
-    `git clone https://github.com/josephskelly/WeatherApp.git`
+
+    git clone https://github.com/josephskelly/WeatherApp.git
+    
 (4) Move to project folder.
-    `cd WeatherApp`
+
+    cd WeatherApp
+    
 (5) Open project file:
-    `open WeatherApp.xcodeproj`
+
+    open WeatherApp.xcodeproj
